@@ -72,7 +72,8 @@ Domain: **Real Estate | Business Intelligence | Data Analytics**
 ---
 📝 Author
 
-Your Aswathy B
-📧 your.aswathybalky@gmail.com
+ Aswathy B
+
+📧 aswathybalky@gmail.com
 
 🌐 <www.linkedin.com/in/aswathy-balakrishnan-38761b145>
