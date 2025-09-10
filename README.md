@@ -70,9 +70,9 @@ Domain: **Real Estate | Business Intelligence | Data Analytics**
 - Requirements file (`requirements.txt`)
 
 ---
+📝 Author
 
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/luxury-housing-analysis.git
-   cd luxury-housing-analysis
+Your Aswathy B
+📧 your.aswathybalky@gmail.com
+
+🌐 <www.linkedin.com/in/aswathy-balakrishnan-38761b145>
